@@ -117,5 +117,7 @@ border-color: #e84393;
 text-align: center; /* Center the form */
 }
 
-
+input::placeholder {
+  color: red; /* Replace 'red' with your desired color */
+}
 
