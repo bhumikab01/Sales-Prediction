@@ -1,5 +1,5 @@
 body{
-    background: #4d0026;
+    #background: #4d0026;
     background: linear-gradient(to left, #667292 0%, #a2b9bc 100%);
 }
 
@@ -69,12 +69,6 @@ footer a:hover{
 .fa-twitter{
   color: #0097e6;
 }
-
-
-
-
-
-
 
 
 
